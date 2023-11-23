@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full stack developer
 --------------------
 
-* ✉️  You can contact me at [rajeshwq@gmail.com](mailto:rajeshwq@gmail.com)
 * 🧠  I'm learning Go
 
 ### Skills
