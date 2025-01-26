@@ -82,7 +82,10 @@ Full stack developer
 
 <a href="https://github.com/rajeshn95" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshn95&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+### Joke Of The Day
 ![Jokes Card](https://rajeshnautiyal.me/jokes?color=cyan&bg=black&borderColor=yellow)
+
+### Quote Of The Day
 ![Quotes Card](https://rajeshnautiyal.me/quotes?color=purple&bg=cyan&borderColor=orange)
 
 ### Support Me
